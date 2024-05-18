@@ -43,6 +43,9 @@ The Word Unscrambler App is a C# console application that helps users find real 
 4. WordMatcher: This class handles the logic for matching scrambled words against a list of known words. It compares each scrambled word against the list and checks for direct matches or matches where the letters can be rearranged to form a word. It returns a list of matched words.
 5. MatchedWords: This struct represents a matched pair of a scrambled word and its unscrambled counterpart. It contains properties to store both the scrambled word and its unscrambled match. This struct is used to organize and return matched words from the WordMatcher class.
 
+## Credits
+This project is created for educational purposes only and shouldn't be used for other intentions.
+
 ### Contact
 If you have any questions or suggestions, feel free to reach out at [sargsyan_sahak@yahoo.com].
 
